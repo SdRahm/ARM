@@ -1,1 +1,7 @@
 # ARM
+
+This is my capstone project of my undergraduate program of Electrical and Electronics Engineering.
+Here three members of our group worked to design RTL of ARM v5 processor.
+We took the help of embedded reference manual of ARM v5 to understand the processor's workings.
+Then we wrote the Verilog HDL code of the RTL.
+Our main target was to design the system efficiently in terms of powewr and size. We had to code this in a way to amke sure of that.
